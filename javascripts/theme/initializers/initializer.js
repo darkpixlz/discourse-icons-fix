@@ -1,5 +1,5 @@
 import { withPluginApi } from "discourse/lib/plugin-api";
-import { loadSprites } from "discourse/lib/svg-sprites-loader"
+import { loadSprites } from "discourse/lib/svg-sprite-loader"
 export default {
   name: "initializer",
   initialize(){
